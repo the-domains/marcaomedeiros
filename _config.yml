@@ -1,5 +1,5 @@
 layout_spectrum: 0.019270613323897123
-typography_spectrum: 0.10669217398390174
+typography_spectrum: 0.4060460014734417
 color:
   brandStrength: 0.8411836223676801
   lightness: 0.429605754557997
@@ -12,5 +12,3 @@ color:
     - '#3E363F'
     - '#DD403A'
 name: MarcaoMedeiros
-title: MARCOS MEDEIROS
-description: everything but ads
