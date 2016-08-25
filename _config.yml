@@ -1,4 +1,3 @@
-layout_spectrum: 0.019270613323897123
 typography_spectrum: 0.4060460014734417
 color:
   brandStrength: 0.8411836223676801
@@ -6,9 +5,11 @@ color:
   saturation: 0.8463526698760688
   rhythmicContrast: 0.7004079853650182
   brandColors:
-    - '#0F0C07'
-    - '#9B837D'
-    - '#634F49'
-    - '#F8F8F8'
-    - '#CEBBB5'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.019270613323897123
 name: MarcaoMedeiros
+title: MARCOS MEDEIROS
