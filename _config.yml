@@ -1,16 +1,16 @@
-layout_spectrum: 0.5596802236977965
-typography_spectrum: 0.021504602394998074
+typography_spectrum: 0.4060460014734417
 color:
-  brandStrength: 0.24212564784102142
-  lightness: 0.28521913127042353
-  saturation: 0.5342605595942587
-  rhythmicContrast: 0.7138062939047813
+  brandStrength: 0.8411836223676801
+  lightness: 0.429605754557997
+  saturation: 0.8463526698760688
+  rhythmicContrast: 0.7004079853650182
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.019270613323897123
 name: MarcaoMedeiros
 title: MARCOS MEDEIROS
 description: everything but ads
