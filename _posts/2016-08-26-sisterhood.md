@@ -1,21 +1,17 @@
 ---
-datePublished: '2016-08-26T14:13:33.731Z'
+datePublished: '2016-08-26T14:28:35.379Z'
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T14:13:19.835Z'
+dateModified: '2016-08-26T14:28:15.097Z'
 title: ''
 publisher: {}
-description: 'Sisterhood '
+description: Sisterhood
 starred: false
 sourcePath: _posts/2016-08-26-sisterhood.md
-inFeed: true
-hasPage: true
-inNav: false
-url: sisterhood/index.html
-_context: 'http://schema.org'
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bf61360-5069-479c-9859-79eeea2ae01d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6b00089-b671-4e1f-b2bb-409e3b41a998.jpg)
 
 _Sisterhood_
