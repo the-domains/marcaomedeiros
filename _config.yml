@@ -16,5 +16,8 @@ navigation:
   - name: PROUD
     id: f0dbdee5-dbe5-489e-a6ac-4db07dee4682
     type: content
+  - name: WISDOM
+    id: 2f18dc55-cdcd-491c-93c2-f256fd72ae35
+    type: content
 title: MY SQUARE EYES
 description: a little bit of light
