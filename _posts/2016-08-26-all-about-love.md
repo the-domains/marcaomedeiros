@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-26T19:39:11.222Z'
+datePublished: '2016-08-28T01:53:33.226Z'
+sourcePath: _posts/2016-08-26-all-about-love.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-26T19:39:00.217Z'
+dateModified: '2016-08-28T01:53:32.360Z'
 title: ''
 publisher: {}
 description: all about love
 starred: false
-sourcePath: _posts/2016-08-26-all-about-love.md
 _type: Blurb
 
 ---
+<iframe src="https://the-grid.github.io/ed-location/?latitude=8.62622&amp;longitude=39.616032&amp;zoom=5&amp;address=Ethiopia" style=""></iframe>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5223e02-aa3c-4f18-81a6-873fb96041c7.jpg)
 
 _all about lov_e
