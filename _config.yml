@@ -12,5 +12,9 @@ color:
     - '#0C0C0C'
 layout_spectrum: 0.16757650417275727
 name: MarcosMedeiros
+navigation:
+  - name: PROUD
+    id: f0dbdee5-dbe5-489e-a6ac-4db07dee4682
+    type: content
 title: MY SQUARE EYES
 description: a little bit of light
