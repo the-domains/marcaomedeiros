@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-08-26T17:54:52.847Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-26T17:54:45.589Z'
+id: a3a945bf-8fe8-4ee9-bf4c-47b7a2da8b77
+dateModified: '2016-08-27T22:36:39.411Z'
 title: ''
-publisher: {}
+datePublished: '2016-08-27T22:36:40.178Z'
+author: []
+hasPage: true
 description: one for the road
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-26-one-for-the-road.md
+url: one-for-the-road/index.html
 _type: Blurb
 
 ---
