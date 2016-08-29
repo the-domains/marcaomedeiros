@@ -1,15 +1,15 @@
 ---
 id: a3a945bf-8fe8-4ee9-bf4c-47b7a2da8b77
-dateModified: '2016-08-27T22:36:39.411Z'
+dateModified: '2016-08-27T23:52:12.690Z'
 title: ''
-datePublished: '2016-08-27T22:36:40.178Z'
+datePublished: '2016-08-27T23:52:18.678Z'
 author: []
 hasPage: true
 description: one for the road
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-26-one-for-the-road.md
+starred: false
 url: one-for-the-road/index.html
 _type: Blurb
 
