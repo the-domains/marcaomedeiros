@@ -1,4 +1,3 @@
-layout_spectrum: 0.2237622756510973
 typography_spectrum: 0.43227600515820086
 color:
   brandStrength: 0.875577031634748
@@ -11,6 +10,7 @@ color:
     - '#878787'
     - '#373737'
     - '#0C0C0C'
+layout_spectrum: 0.2237622756510973
 name: MarcosMedeiros
 navigation:
   - name: WISDOM
@@ -18,6 +18,9 @@ navigation:
     type: content
   - name: PROUD
     id: 5ba11294-53a2-456f-874a-73baadb278c8
+    type: content
+  - name: ETHIOPIA
+    id: 2c3d034c-48f1-4b01-acae-322b219be69c
     type: content
 title: MY SQUARE EYES
 description: a little bit of light
