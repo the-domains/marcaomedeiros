@@ -12,9 +12,5 @@ color:
     - '#0C0C0C'
 layout_spectrum: 0.16757650417275727
 name: MarcosMedeiros
-navigation:
-  - name: WISE MAN
-    id: 2f18dc55-cdcd-491c-93c2-f256fd72ae35
-    type: content
 title: MY SQUARE EYES
 description: a little bit of light
