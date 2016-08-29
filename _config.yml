@@ -1,4 +1,5 @@
-typography_spectrum: 0.5509791735094041
+layout_spectrum: 0.2237622756510973
+typography_spectrum: 0.43227600515820086
 color:
   brandStrength: 0.875577031634748
   lightness: 0.4706348415929824
@@ -10,7 +11,6 @@ color:
     - '#878787'
     - '#373737'
     - '#0C0C0C'
-layout_spectrum: 0.16757650417275727
 name: MarcosMedeiros
 navigation:
   - name: WISDOM
