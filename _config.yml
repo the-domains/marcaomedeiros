@@ -12,5 +12,9 @@ color:
     - '#0C0C0C'
 layout_spectrum: 0.44267329084686935
 name: MarcosMedeiros
+navigation:
+  - name: Ethiopia
+    id: a8a9d5a9-e28f-488a-a36d-9a93e6a852d5
+    type: content
 title: MY SQUARE EYES
 description: a little bit of light
