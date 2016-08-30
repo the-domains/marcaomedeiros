@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.2237622756510973
 name: MarcosMedeiros
 navigation:
-  - name: PROUD
-    id: 5ba11294-53a2-456f-874a-73baadb278c8
-    type: content
   - name: ETHIOPIA
     id: 2c3d034c-48f1-4b01-acae-322b219be69c
     type: content
