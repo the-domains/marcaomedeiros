@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T23:36:39.856Z'
+datePublished: '2016-08-29T00:14:13.362Z'
+sourcePath: _posts/2016-08-28-pimp-my-ride.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T23:34:33.668Z'
+dateModified: '2016-08-29T00:14:12.642Z'
 title: ''
 publisher: {}
-description: 'pimp my ride '
+description: pimp my ride
 starred: false
-sourcePath: _posts/2016-08-28-pimp-my-ride.md
 _type: Blurb
 
 ---
