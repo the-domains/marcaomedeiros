@@ -12,9 +12,5 @@ color:
     - '#0C0C0C'
 layout_spectrum: 0.2237622756510973
 name: MarcosMedeiros
-navigation:
-  - name: ROUTE 66
-    id: 0b871895-5ad6-49ad-ac5a-582e1b363aec
-    type: content
 title: MY SQUARE EYES
 description: a little bit of light
