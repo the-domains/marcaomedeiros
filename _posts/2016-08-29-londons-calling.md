@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T00:09:05.600Z'
+datePublished: '2016-08-29T00:14:44.643Z'
+sourcePath: _posts/2016-08-29-londons-calling.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T00:00:13.356Z'
+dateModified: '2016-08-29T00:14:43.697Z'
 title: ''
 publisher: {}
-description: 'london''s calling '
+description: london's calling
 starred: false
-sourcePath: _posts/2016-08-29-londons-calling.md
 _type: Blurb
 
 ---
