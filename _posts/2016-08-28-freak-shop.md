@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T23:27:05.870Z'
+datePublished: '2016-08-29T00:15:08.455Z'
+sourcePath: _posts/2016-08-28-freak-shop.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T23:26:13.749Z'
+dateModified: '2016-08-29T00:15:07.674Z'
 title: ''
 publisher: {}
-description: 'freak shop '
+description: freak shop
 starred: false
-sourcePath: _posts/2016-08-28-freak-shop.md
 _type: Blurb
 
 ---
