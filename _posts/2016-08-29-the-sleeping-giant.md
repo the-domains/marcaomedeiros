@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T13:38:53.776Z'
+datePublished: '2016-08-30T14:06:43.568Z'
+sourcePath: _posts/2016-08-29-the-sleeping-giant.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T13:38:39.001Z'
+dateModified: '2016-08-30T14:06:42.049Z'
 title: ''
 publisher: {}
-description: 'the sleeping giant  '
+description: the sleeping giant
 starred: false
-sourcePath: _posts/2016-08-29-the-sleeping-giant.md
 _type: Blurb
 
 ---
