@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T13:38:53.775Z'
+datePublished: '2016-08-30T14:07:08.681Z'
+sourcePath: _posts/2016-08-29-abandoned.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T13:36:45.537Z'
+dateModified: '2016-08-30T14:07:06.650Z'
 title: ''
 publisher: {}
-description: 'abandoned '
+description: abandoned
 starred: false
-sourcePath: _posts/2016-08-29-abandoned.md
 _type: Blurb
 
 ---
