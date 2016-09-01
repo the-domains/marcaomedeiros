@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T18:00:39.081Z'
+datePublished: '2016-08-30T13:41:17.529Z'
+sourcePath: _posts/2016-08-29-cd8a7f83-fad0-4af4-bb6f-fd83cebbbcfe.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T17:54:27.086Z'
+dateModified: '2016-08-30T13:41:16.851Z'
 title: ''
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-29-cd8a7f83-fad0-4af4-bb6f-fd83cebbbcfe.md
 _type: Blurb
 
 ---
