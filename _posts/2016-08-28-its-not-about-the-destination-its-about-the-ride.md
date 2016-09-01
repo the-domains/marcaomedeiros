@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T23:25:37.481Z'
+datePublished: '2016-08-30T14:26:35.484Z'
+sourcePath: _posts/2016-08-28-its-not-about-the-destination-its-about-the-ride.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T23:24:32.085Z'
+dateModified: '2016-08-30T14:26:34.435Z'
 title: ''
 publisher: {}
-description: 'it''s not about the destination it''s about the ride '
+description: it's not about the destination it's about the ride
 starred: false
-sourcePath: _posts/2016-08-28-its-not-about-the-destination-its-about-the-ride.md
 _type: Blurb
 
 ---
