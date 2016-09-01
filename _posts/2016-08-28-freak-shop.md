@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T00:15:08.455Z'
+datePublished: '2016-08-30T14:25:00.458Z'
 sourcePath: _posts/2016-08-28-freak-shop.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T00:15:07.674Z'
+dateModified: '2016-08-30T14:24:59.730Z'
 title: ''
 publisher: {}
 description: freak shop
