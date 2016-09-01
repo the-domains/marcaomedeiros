@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T00:14:13.362Z'
+datePublished: '2016-08-30T14:23:55.306Z'
 sourcePath: _posts/2016-08-28-pimp-my-ride.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T00:14:12.642Z'
+dateModified: '2016-08-30T14:23:54.534Z'
 title: ''
 publisher: {}
 description: pimp my ride
