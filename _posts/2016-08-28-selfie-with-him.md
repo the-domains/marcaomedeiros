@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T23:36:43.834Z'
+datePublished: '2016-08-30T14:23:00.815Z'
+sourcePath: _posts/2016-08-28-selfie-with-him.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T23:36:31.861Z'
+dateModified: '2016-08-30T14:23:00.060Z'
 title: ''
 publisher: {}
 description: selfie with Him
 starred: false
-sourcePath: _posts/2016-08-28-selfie-with-him.md
 _type: Blurb
 
 ---
