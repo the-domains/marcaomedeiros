@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T23:15:00.050Z'
+datePublished: '2016-08-30T15:09:04.759Z'
+sourcePath: _posts/2016-08-28-the-lazy-dog.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T22:44:32.732Z'
+dateModified: '2016-08-30T15:09:02.059Z'
 title: ''
 publisher: {}
 description: the lazy (dog).
 starred: false
-sourcePath: _posts/2016-08-28-the-lazy-dog.md
 _type: Blurb
 
 ---
