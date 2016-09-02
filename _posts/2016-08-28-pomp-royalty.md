@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T22:39:56.895Z'
+datePublished: '2016-08-30T15:12:02.457Z'
+sourcePath: _posts/2016-08-28-pomp-royalty.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T22:39:19.676Z'
+dateModified: '2016-08-30T15:12:01.450Z'
 title: ''
 publisher: {}
-description: 'pomp royalty '
+description: pomp royalty
 starred: false
-sourcePath: _posts/2016-08-28-pomp-royalty.md
 _type: Blurb
 
 ---
