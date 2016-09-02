@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T14:05:50.747Z'
+datePublished: '2016-08-30T17:38:09.735Z'
+sourcePath: _posts/2016-08-29-animal-kingdom.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T13:59:17.709Z'
+dateModified: '2016-08-30T13:59:30.810Z'
 title: ''
 publisher: {}
 description: animal kingdom.
 starred: false
-sourcePath: _posts/2016-08-29-animal-kingdom.md
 _type: Blurb
 
 ---
