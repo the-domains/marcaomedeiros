@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-28T15:02:18.430Z'
+datePublished: '2016-08-31T21:50:16.776Z'
 sourcePath: _posts/2016-08-27-friend-a-person-who-you-like-and-enjoy-being-with.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T14:25:46.901Z'
+dateModified: '2016-08-31T21:50:16.113Z'
 title: ''
 id: 1b0b32de-cac4-412b-bc58-62fe2a1ca03f
 publisher: {}
 description: ______
-starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+starred: true
+_type: Blurb
 
 ---
 _\_\_\_\_\_\__
