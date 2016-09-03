@@ -1,4 +1,3 @@
-layout_spectrum: 0.701234329957515
 typography_spectrum: 0.3586016478948295
 color:
   brandStrength: 0.875577031634748
@@ -11,6 +10,7 @@ color:
     - '#878787'
     - '#373737'
     - '#0C0C0C'
+layout_spectrum: 0.701234329957515
 name: MarcosMedeiros
 title: MY SQUARE EYES
-description: a little bit of light
+description: ''
