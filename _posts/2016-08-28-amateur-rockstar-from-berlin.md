@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T20:36:54.460Z'
+datePublished: '2016-09-01T20:59:47.857Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:13:51.619Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: amateur rockstar from Berlin.
-starred: false
 sourcePath: _posts/2016-08-28-amateur-rockstar-from-berlin.md
+starred: false
 _type: Blurb
 
 ---
