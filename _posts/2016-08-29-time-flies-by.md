@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T14:15:13.866Z'
+datePublished: '2016-09-01T20:59:48.741Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T14:14:49.145Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: time flies by.
-starred: false
 sourcePath: _posts/2016-08-29-time-flies-by.md
+starred: false
 _type: Blurb
 
 ---
