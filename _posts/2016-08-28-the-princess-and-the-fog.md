@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T21:17:45.633Z'
+datePublished: '2016-09-01T20:27:09.626Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T21:17:21.204Z'
+dateModified: '2016-09-01T20:27:08.842Z'
 title: ''
 publisher: {}
-description: 'The Princess and the Fog '
-starred: false
+description: The Princess and the Fog
 sourcePath: _posts/2016-08-28-the-princess-and-the-fog.md
+starred: true
 _type: Blurb
 
 ---
