@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T22:32:12.681Z'
+datePublished: '2016-09-01T20:59:47.842Z'
 sourcePath: _posts/2016-08-26-all-about-love.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:32:11.030Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: all about love
