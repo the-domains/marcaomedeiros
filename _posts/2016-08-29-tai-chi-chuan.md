@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T17:31:23.117Z'
+datePublished: '2016-09-01T20:59:48.688Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T15:02:31.368Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
-description: 'tái chi chúan '
-starred: false
+description: tái chi chúan
 sourcePath: _posts/2016-08-29-tai-chi-chuan.md
+starred: false
 _type: Blurb
 
 ---
