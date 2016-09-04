@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-28T20:36:54.463Z'
+datePublished: '2016-09-01T20:59:47.858Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T20:08:04.397Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
-description: 'People from New York '
-starred: false
+description: People from New York
 sourcePath: _posts/2016-08-28-people-from-new-york.md
+starred: false
 _type: Blurb
 
 ---
