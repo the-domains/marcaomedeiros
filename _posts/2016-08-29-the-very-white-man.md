@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-29T17:49:56.424Z'
+datePublished: '2016-09-01T20:59:48.642Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T17:49:43.439Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: 'the very white man '
-starred: false
 sourcePath: _posts/2016-08-29-the-very-white-man.md
+starred: false
 _type: Blurb
 
 ---
