@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T20:36:50.392Z'
+datePublished: '2016-09-01T20:59:48.741Z'
 sourcePath: _posts/2016-08-28-the-princess-and-the-fog.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T20:36:49.551Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: The Princess and the Fog
