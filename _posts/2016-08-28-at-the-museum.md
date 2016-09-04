@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T19:22:35.066Z'
+datePublished: '2016-09-01T20:59:47.909Z'
 sourcePath: _posts/2016-08-28-at-the-museum.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T19:22:32.005Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: at the museum
