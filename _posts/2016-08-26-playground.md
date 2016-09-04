@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-28T15:02:14.010Z'
+datePublished: '2016-09-01T20:59:47.930Z'
 sourcePath: _posts/2016-08-26-playground.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T14:25:48.370Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: playground
