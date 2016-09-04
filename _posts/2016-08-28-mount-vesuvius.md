@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T00:13:50.210Z'
+datePublished: '2016-09-01T20:59:48.722Z'
 sourcePath: _posts/2016-08-28-mount-vesuvius.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T00:13:49.532Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: mount Vesuvius
