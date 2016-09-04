@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-30T17:58:25.931Z'
+datePublished: '2016-09-01T15:19:22.139Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T17:58:24.971Z'
+dateModified: '2016-09-01T15:19:21.072Z'
 title: ''
 id: d8a4730e-6b87-4886-aac4-ca5645f07f7d
 publisher: {}
 description: 'There are 4. No, wait. 5.'
-starred: false
 sourcePath: _posts/2016-08-27-there-are-4-no-wait-5.md
+starred: true
 _type: Blurb
 
 ---
