@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T13:41:17.529Z'
+datePublished: '2016-09-01T20:59:48.642Z'
 sourcePath: _posts/2016-08-29-cd8a7f83-fad0-4af4-bb6f-fd83cebbbcfe.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T13:41:16.851Z'
+dateModified: '2016-09-01T20:59:45.826Z'
 title: ''
 publisher: {}
 description: ''
