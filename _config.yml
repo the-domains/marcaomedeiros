@@ -1,4 +1,21 @@
-title: MY SQUARE EYES
+typography_spectrum: 0.5682957
+color:
+  saturation: 0.6426451988518238
+  brandStrength: 0.875577031634748
+  rhythmicContrast: 0.9135414138436317
+  brandColors:
+    - '#D1D1D1'
+    - '#686868'
+    - '#878787'
+    - '#373737'
+    - '#0C0C0C'
+  lightness: 0.4706348415929824
+layout_spectrum: 0.1704261
+name: MarcosMedeiros
+navigation:
+  - name: about me
+    id: 59667d45-fa1f-4c04-aa37-181956515e8a
+    type: content
 collections:
   - index:
       path: /
@@ -11,18 +28,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6426451988518238
-  brandStrength: 0.875577031634748
-  rhythmicContrast: 0.9135414138436317
-  brandColors:
-    - '#D1D1D1'
-    - '#686868'
-    - '#878787'
-    - '#373737'
-    - '#0C0C0C'
-  lightness: 0.4706348415929824
-typography_spectrum: 0.5682957
+title: MY SQUARE EYES
 description: ''
-layout_spectrum: 0.1704261
-name: MarcosMedeiros
