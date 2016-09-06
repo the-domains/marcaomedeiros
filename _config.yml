@@ -12,6 +12,10 @@ color:
   lightness: 0.4706348415929824
 layout_spectrum: 0.1704261
 name: MarcosMedeiros
+navigation:
+  - name: about me
+    id: 87c48a93-5aba-4966-b076-2918954d6a2b
+    type: content
 collections:
   - index:
       path: /
