@@ -4,7 +4,7 @@
         <description><![CDATA[MY SQUARE EYES]]></description>
         <link>http://mysquareeyes.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 14:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 14:19:43 GMT</lastBuildDate>
         <atom:link href="http://mysquareeyes.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://mysquareeyes.co/one-for-the-road/index.html</link>
             <guid isPermaLink="false">a3a945bf-8fe8-4ee9-bf4c-47b7a2da8b77</guid>
             <pubDate>Tue, 30 Aug 2016 12:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e137a62b-1955-414b-b379-3e1aec5d50ba.jpg">]]></description>
-            <link>http://mysquareeyes.co/59667d45-fa1f-4c04-aa37-181956515e8a/index.html</link>
-            <guid isPermaLink="false">59667d45-fa1f-4c04-aa37-181956515e8a</guid>
-            <pubDate>Fri, 02 Sep 2016 14:09:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://mysquareeyes.co/939140ed-3878-421c-82c5-1a2b7af37151/index.html</link>
             <guid isPermaLink="false">939140ed-3878-421c-82c5-1a2b7af37151</guid>
             <pubDate>Thu, 01 Sep 2016 20:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e137a62b-1955-414b-b379-3e1aec5d50ba.jpg">]]></description>
+            <link>http://mysquareeyes.co/59667d45-fa1f-4c04-aa37-181956515e8a/index.html</link>
+            <guid isPermaLink="false">59667d45-fa1f-4c04-aa37-181956515e8a</guid>
+            <pubDate>Fri, 02 Sep 2016 14:19:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
