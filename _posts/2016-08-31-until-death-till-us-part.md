@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T22:31:27.083Z'
+datePublished: '2016-09-02T14:09:51.879Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T22:17:26.425Z'
+dateModified: '2016-09-02T14:09:49.615Z'
 title: ''
 publisher: {}
-description: 'until death ''till us part '
-starred: false
+description: until death 'till us part
 sourcePath: _posts/2016-08-31-until-death-till-us-part.md
+starred: false
 _type: Blurb
 
 ---
